@@ -1,3 +1,6 @@
+.app-navbar{
+  @apply pt-8;
+}
 .app-navbar nav {
   @apply flex justify-between items-center w-full pb-0 px-4 lg:px-28 pt-4;
 }
