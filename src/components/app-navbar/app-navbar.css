@@ -1,0 +1,9 @@
+.app-navbar nav {
+  @apply flex justify-between items-center w-full pb-0 px-4 lg:px-28 pt-4;
+}
+.nav-wrapper {
+  @apply flex items-center justify-between w-full px-4 md:px-8;
+}
+.nav-links {
+  @apply hidden lg:inline-flex items-center justify-center gap-x-9 w-full px-4 md:px-8;
+}

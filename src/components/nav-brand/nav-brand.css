@@ -1,0 +1,11 @@
+.navbar-brand {
+  @apply flex items-center gap-x-1 cursor-pointer;
+}
+
+.navbar-brand img {
+  @apply w-5 h-5;
+}
+
+.navbar-brand h1{
+    @apply text-base text-primary font-bold;
+}

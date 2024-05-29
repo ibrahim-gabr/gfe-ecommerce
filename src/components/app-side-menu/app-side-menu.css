@@ -1,0 +1,11 @@
+#slideout-menu {
+  @apply fixed top-0 bottom-0 w-[300px] left-0 bg-white;
+}
+
+#side-menu-overlay {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(10, 10, 10,0.7);
+}
