@@ -5,5 +5,5 @@
   @apply flex items-center justify-between w-full px-4 md:px-8;
 }
 .nav-links {
-  @apply hidden lg:inline-flex items-center justify-center gap-x-9 w-full px-4 md:px-8;
+  @apply hidden lg:inline-flex items-center justify-start gap-x-9 w-full px-4 md:pr-8 md:pl-24;
 }
